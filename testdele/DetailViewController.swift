@@ -49,7 +49,7 @@ class DetailViewController: UIViewController {
 
         if let delegate = self.delegate {
             print("something")
-            delegate.hereIsAMessageForYou("Youhou BOOOOOOOO")
+            delegate.hereIsAMessageForYou("TROP COOOOOOOOLLLLLLL")
         }
     }
     
